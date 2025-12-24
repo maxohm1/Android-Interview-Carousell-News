@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Implement the Card UI here with the following UI Widget:
+
+ LinearLayout
+   - A UI Widget that stack children horizontally or vertically, depends on the value set for
+     "android:orientation" attribute
+
+ CardView
+   - A Card UI that allows you to adjust
+       - Corner radius of the card
+       - Elevation of the card
+   - It can contains some children, but CardView won't have the ability to stack stack children
+     horizontally or vertically
+
+ ShapeableImageView
+   - View for displaying image, and it allows you to change the shape of the View by applying a
+     shapeAppearance attribute. These are the possible values for the attribute:
+       - CircleImageView
+       - RoundedSquareImageView
+       - TopRoundedSquareImageView
+
+ TextView
+   - View for displaying text. Adjust the text style by the following attributes:
+       - textColor
+       - textSize
+       - textStyle -> normal, bold or italic
+ -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content">
+
+</LinearLayout>

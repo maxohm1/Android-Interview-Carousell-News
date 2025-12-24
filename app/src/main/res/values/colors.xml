@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="cds_urbangrey_90">#2c2c2d</color>
+  <color name="cds_urbangrey_80">#414244</color>
+  <color name="cds_urbangrey_60">#57585a</color>
+  <color name="cds_urbangrey_50">#6d6e71</color>
+  <color name="cds_urbangrey_40">#c5c5c6</color>
+  <color name="cds_urbangrey_30">#f8f8f9</color>
+  <color name="cds_urbangrey_20">#f0f1f1</color>
+  <color name="cds_urbangrey_10">#F8F8F9</color>
+
+  <color name="cds_white">#ffffff</color>
+  <color name="cds_white_40a">#66ffffff</color>
+  <color name="cds_white_90a">#E6ffffff</color>
+
+  <color name="cds_caroured_90">#660f16</color>
+  <color name="cds_caroured_80">#991720</color>
+  <color name="cds_caroured_60">#cc1e2b</color>
+  <color name="cds_caroured_50">#ff2636</color>
+  <color name="cds_caroured_20">#ffd4d7</color>
+
+  <color name="cds_oceanblue_80">#008299</color>
+  <color name="cds_oceanblue_60">#00aecc</color>
+  <color name="cds_oceanblue_50">#00d9ff</color>
+  <color name="cds_oceanblue_40">#33e1ff</color>
+
+  <color name="cds_deepblue_80">#014a99</color>
+  <color name="cds_deepblue_60">#0263cc</color>
+  <color name="cds_deepblue_50">#027cff</color>
+  <color name="cds_deepblue_40">#3596ff</color>
+
+  <color name="cds_nightblue_80">#0f286a</color>
+  <color name="cds_nightblue_60">#14368d</color>
+  <color name="cds_nightblue_50">#1943b0</color>
+  <color name="cds_nightblue_40">#4769c0</color>
+
+  <color name="cds_nightblue_50_13a">#191943b0</color>
+
+  <color name="cds_skyteal_90">#026958</color>
+  <color name="cds_skyteal_80">#008f79</color>
+  <color name="cds_skyteal_60">#00bfa2</color>
+  <color name="cds_skyteal_50">#00efca</color>
+  <color name="cds_skyteal_40">#33f2d5</color>
+
+  <color name="cds_fieldgreen_80">#007744</color>
+  <color name="cds_fieldgreen_60">#009e5a</color>
+  <color name="cds_fieldgreen_50">#00c671</color>
+  <color name="cds_fieldgreen_40">#33d18d</color>
+  <color name="cds_fieldgreen_40_40a">#6633d18d</color>
+
+  <color name="cds_orchidpurple_80">#581658</color>
+  <color name="cds_orchidpurple_60">#761d75</color>
+  <color name="cds_orchidpurple_50">#932492</color>
+  <color name="cds_orchidpurple_40">#a950a8</color>
+
+  <color name="cds_orchidpurple_50_13a">#19932492</color>
+
+  <!--Colours with added aplha (opacity)-->
+  <!--Naming convention: cds_[color name]_[tint/shade]_[alpha code]
+  The first number is a tint or a shade.
+  Value 50 indicates the main colour.
+  Any number smaller is a tint;
+  bigger is a shade. -->
+
+  <color name="cds_caroured_50_13a">#19ff2636</color>
+  <color name="cds_caroured_50_20a">#33ff2636</color>
+  <color name="cds_caroured_50_40a">#66ff2636</color>
+  <color name="cds_caroured_50_60a">#99ff2636</color>
+  <color name="cds_caroured_50_80a">#CCff2636</color>
+
+  <color name="cds_caroured_80_20a">#33991720</color>
+
+  <color name="cds_skyteal_80_20a">#33008f79</color>
+  <color name="cds_skyteal_80_40a">#66008f79</color>
+  <color name="cds_skyteal_80_60a">#99008f79</color>
+  <color name="cds_skyteal_80_80a">#CC008f79</color>
+
+  <color name="cds_fieldgreen_80_20a">#33007744</color>
+  <color name="cds_fieldgreen_60_13a">#19009e5a</color>
+
+  <color name="cds_urbangrey_90_20a">#332c2c2d</color>
+  <color name="cds_urbangrey_90_40a">#662c2c2d</color>
+  <color name="cds_urbangrey_90_60a">#992c2c2d</color>
+  <color name="cds_urbangrey_90_80a">#CC2c2c2d</color>
+
+  <color name="cds_urbangrey_50_40a">#666d6e71</color>
+
+  <color name="cds_urbangrey_40_60a">#99c5c5c6</color>
+
+  <color name="cds_deepblue_80_20a">#33014a99</color>
+  <color name="cds_deepblue_80_40a">#66014a99</color>
+  <color name="cds_deepblue_80_60a">#99014a99</color>
+  <color name="cds_deepblue_80_80a">#CC014a99</color>
+
+  <!--End of Colours with added aplha (opacity)-->
+
+</resources>

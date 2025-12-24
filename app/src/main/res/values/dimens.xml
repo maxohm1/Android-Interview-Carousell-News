@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Text sizes -->
+  <dimen name="cds_text_size_title1">34sp</dimen>
+  <dimen name="cds_text_size_title2">24sp</dimen>
+  <dimen name="cds_text_size_title3">20sp</dimen>
+  <dimen name="cds_text_size_large">16sp</dimen>
+  <dimen name="cds_text_size_middle">14sp</dimen>
+  <dimen name="cds_text_size_small">12sp</dimen>
+  <dimen name="cds_text_size_tiny_cap">11sp</dimen>
+  <dimen name="cds_text_size_micro">9sp</dimen>
+
+  <!-- Icon sizes -->
+  <dimen name="cds_icon_size_large">32dp</dimen>
+  <dimen name="cds_icon_size_medium">24dp</dimen>
+  <dimen name="cds_icon_size_small">16dp</dimen>
+
+  <!-- Spacing -->
+  <dimen name="cds_spacing_0">0dp</dimen>
+  <dimen name="cds_spacing_4">4dp</dimen>
+  <dimen name="cds_spacing_8">8dp</dimen>
+  <dimen name="cds_spacing_10">10dp</dimen>
+  <dimen name="cds_spacing_12">12dp</dimen>
+  <dimen name="cds_spacing_14">14dp</dimen>
+  <dimen name="cds_spacing_16">16dp</dimen>
+  <dimen name="cds_spacing_20">20dp</dimen>
+  <dimen name="cds_spacing_24">24dp</dimen>
+  <dimen name="cds_spacing_28">28dp</dimen>
+  <dimen name="cds_spacing_32">32dp</dimen>
+  <dimen name="cds_spacing_36">36dp</dimen>
+  <dimen name="cds_spacing_40">40dp</dimen>
+  <dimen name="cds_spacing_44">44dp</dimen>
+  <dimen name="cds_spacing_48">48dp</dimen>
+  <dimen name="cds_spacing_52">52dp</dimen>
+  <dimen name="cds_spacing_56">56dp</dimen>
+  <dimen name="cds_spacing_64">64dp</dimen>
+
+  <!-- Spinner Sizes -->
+  <dimen name="cds_spinner_size">44dp</dimen>
+  <dimen name="cds_spinner_size_small">26dp</dimen>
+
+  <!-- Line spacing -->
+  <dimen name="cds_line_spacing_title_1">6dp</dimen>
+  <dimen name="cds_line_spacing_title_2">8dp</dimen>
+  <dimen name="cds_line_spacing_title_3">6dp</dimen>
+  <dimen name="cds_line_spacing_large">7dp</dimen>
+  <dimen name="cds_line_spacing_middle">7dp</dimen>
+  <dimen name="cds_line_spacing_middle_compact">1dp</dimen>
+  <dimen name="cds_line_spacing_small">5dp</dimen>
+  <dimen name="cds_line_spacing_small_compact">3dp</dimen>
+  <dimen name="cds_line_spacing_tiny_cap">5dp</dimen>
+  <dimen name="cds_line_spacing_micro">5dp</dimen>
+  <dimen name="cds_line_spacing_large_call_out">7dp</dimen>
+  <dimen name="cds_line_spacing_middle_call_out">7dp</dimen>
+  <dimen name="cds_line_spacing_small_call_out">5dp</dimen>
+
+  <!-- Corner Radius -->
+  <dimen name="cds_corner_radius_4">4dp</dimen>
+  <dimen name="cds_corner_radius_8">8dp</dimen>
+  <dimen name="cds_corner_radius_16">16dp</dimen>
+
+  <!-- CdsTextInputHeight -->
+  <dimen name="cds_text_input_paragraph_height">136dp</dimen>
+
+  <!-- Elevation -->
+  <dimen name="cds_elevation_8">8dp</dimen>
+  <dimen name="cds_elevation_0">0dp</dimen>
+
+  <dimen name="card_image_height">140dp</dimen>
+</resources>

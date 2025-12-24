@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  ShapeableImageView  -->
+  <style name="CircleImageView" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+    <item name="cornerSize">50%</item>
+    <item name="cornerFamily">rounded</item>
+  </style>
+
+  <style name="RoundedSquareImageView" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+    <item name="cornerSize">@dimen/cds_corner_radius_4</item>
+  </style>
+
+  <style name="TopRoundedSquareImageView" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+    <item name="cornerSizeTopLeft">@dimen/cds_corner_radius_4</item>
+    <item name="cornerSizeTopRight">@dimen/cds_corner_radius_4</item>
+  </style>
+</resources>
